@@ -1,0 +1,12 @@
+# Trained models
+*.h5
+
+# Generated plots
+*.png
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+.env
